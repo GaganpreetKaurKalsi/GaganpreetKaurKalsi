@@ -1,7 +1,10 @@
 <div align="center"><img src="./GithubHead.gif" style="height: 200px;"></div>
 
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am Gaganpreet Kaur Kalsi!</h1>
-<br>
+<div align="center">
+<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=GaganpreetKaurKalsi">
+</div>
+<br><br>
 <p align="center" style="margin-top:10px">
 <b>
 Welcome to my Github profile!</b> <br>
@@ -81,12 +84,10 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 <h3>Github Stats 📈</h3>
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaganpreetKaurKalsi&theme=light&hide_border=true&line_height=27&width=20"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=GaganpreetKaurKalsi&count_private=true&&show_icons=true&count_private=true&line_height=27&width=20" alt="Gaganpreet Kaur Kalsi's github stats" />
-  
-  
-![Gagan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GaganpreetKaurKalsi&layout=compact&langs_count=8&hide_border=true)
-<br />
+
+| ![Gaganpreet Kaur Kalsi GitHub Statistics](https://github-readme-stats.vercel.app/api?username=GaganpreetKaurKalsi&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaganpreetKaurKalsi) |
+| --- | --- |
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=GaganpreetKaurKalsi&theme=light&hide_border=true&line_height=27&width=20) | ![Gagan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GaganpreetKaurKalsi&layout=compact&langs_count=8&hide_border=true) | 
 
 
 
