@@ -54,7 +54,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 <br>  
 
 
-<h2>Tech stack I work with 👇</h2>
+<h3>Tech stack I work with 👇</h3>
 
 <h4>Web development stack</h4> 
 
@@ -79,38 +79,33 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 <h4>Hosting/SaaS</h4>    
 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&style=plastic)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7&style=plastic)   
- 
-📈 my github stats
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&style=plastic)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=blue&style=plastic)   
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GaganpreetKaurKalsi&show_icons=true&theme=gotham" alt="GaganpreetKaurKalsi" />
 
+<br><br>
+
+
+
+<h3>Github Stats 📈</h3>
+
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaganpreetKaurKalsi&theme=light&hide_border=true&line_height=27&width=20"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GaganpreetKaurKalsi&count_private=true&&show_icons=true&count_private=true&line_height=27&width=20" alt="Gaganpreet Kaur Kalsi's github stats" />
   
   
 ![Gagan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GaganpreetKaurKalsi&layout=compact&langs_count=8&hide_border=true)
 <br />
-  
-  
-## ⚡ Tech Stack
-
-Here are a few things I've picked up along my learning journey.
 
 
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
-  
 
-
- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
- ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)  ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
- 
+<img src="https://activity-graph.herokuapp.com/graph?username=GaganpreetKaurKalsi&theme=github" alt="GitHub Activity Graph" width="100%" />
 
  
- ![](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white) ![](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
-
-  ![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-  
- ## In progress
+ 
+ 
+ 
+ 
+ 
   
 <!--
 **GaganpreetKaurKalsi/GaganpreetKaurKalsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -126,15 +121,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
-  ### 📈 GitHub Activity Graph:
-<img src="https://activity-graph.herokuapp.com/graph?username=GaganpreetKaurKalsi&theme=github" alt="GitHub Activity Graph" width="100%" />
-  
-  
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=GaganpreetKaurKalsi&count_private=true&&show_icons=true&count_private=true&line_height=27&width=27" alt="Gaganpreet Kaur Kalsi's github stats" />
-
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaganpreetKaurKalsi&theme=dark&hide_border=true&line_height=27&width=27"/>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaganpreetKaurKalsi&layout=compact&hide_border=true)
