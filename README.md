@@ -41,7 +41,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   &bullet;&nbsp;Open source contributor.<i> Happy to contribute and add value to community.</i><br>
   &bullet;&nbsp;I create content on JavaScript.<i> Want to learn the basics, <a href="https://www.instagram.com/gagancodes_/"><b>follow me.</b></a></i><br>
 </div>
-<h4><b>Personal portfolio <a href=""gaganpreetkaurkalsi.netlify.app>here</a>.</b></h4>
+<h4><b>Personal portfolio <a href="https://gaganpreetkaurkalsi.netlify.app/">here</a>.</b></h4>
 <br>
 <br>  
 
