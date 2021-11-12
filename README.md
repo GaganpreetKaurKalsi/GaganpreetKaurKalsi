@@ -1,11 +1,17 @@
-<img src="./Github Profile Head.gif" style="width:80%; margin:auto;">
+<div align="center"><img src="./GithubHead.gif" style="height: 200px;"></div>
+
+<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am <a href="https://www.linkedin.com/in/gaganpreet-kaur-kalsi-2a6650191">Gaganpreet Kaur Kalsi!</a> </h1>
+
+<p align="center" style="margin-top:10px">
+<b>
+Welcome to my Github profile!</b> <br>
+Scroll down below to find what I am upto, what I am doing, and what I do
+</p>
+
+  
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=GaganpreetKaurKalsi.GaganpreetKaurKalsi) -->
 
 
-# Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am [Gaganpreet Kaur Kalsi!](https://www.linkedin.com/in/gaganpreet-kaur-kalsi-2a6650191/)
-![](https://visitor-badge.glitch.me/badge?page_id=GaganpreetKaurKalsi.GaganpreetKaurKalsi)
-
-Welcome to my github profile! <br>
-I'm **Gaganpreet Kaur Kalsi**, currently a **frontend developer** from Punjab, India.
 
 Social - <br>
 <a href="https://www.linkedin.com/in/aakash9868sinha/">
