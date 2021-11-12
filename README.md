@@ -1,36 +1,86 @@
 <div align="center"><img src="./GithubHead.gif" style="height: 200px;"></div>
 
-<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am <a href="https://www.linkedin.com/in/gaganpreet-kaur-kalsi-2a6650191">Gaganpreet Kaur Kalsi!</a> </h1>
-
+<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am Gaganpreet Kaur Kalsi!</h1>
+<br>
 <p align="center" style="margin-top:10px">
 <b>
 Welcome to my Github profile!</b> <br>
-Scroll down below to find what I am upto, what I am doing, and what I do
+Scroll down below to find what I do, what I am doing, and what I am upto.<br>   
+<i>Want to collaborate, reach me below.</i>
 </p>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/gaganpreet-kaur-kalsi-2a6650191/">
+    <img width="30px" src="/assests/linkedin-line.svg"  />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/GaganpreetKalsi">
+    <img width="28px" src="/assests/twitter-line.svg" />
+  </a>  
+  &nbsp;
+  <a href="https://www.instagram.com/gagancodes_/">
+    <img width="28px" src="/assests/instagram-line.svg" />
+  </a>  
+  &nbsp;
+  <a href="https://medium.com/@gaganpreetkaurkalsi">
+    <img width="28px" src="/assests/medium-line.svg" />
+  </a> 
+</div>
+<br>
+<br>
+<!-- <div align="center">
+  <h4>Mail me&nbsp;
+  <a href="mailto:gagansinghkalsi4126@gmail.com">
+      <img width="22px" src="/assests/gmail.svg" />
+  </a>
+  </h4>
+</div>
+<br> -->
   
+  
+<h3 align="center">A small introduction ✍</h3>
+<p align="center">Hey! I am currently in my <b>3rd year</b> of Bachelors in Computer Science. I am a <b>frontend web developer</b> and a <b>machine learning enthusiast</b>. I have been into the field of web development for almost 2 years now. Also I am an artist. I love painting, sketching, crafting. Want to see some of my work, <a href="https://www.instagram.com/portraits_by_gagan/"><b>click here.</b></a></p>
+<br>
+<br>
+
+<h3 align="left">About me 🤔</h3>
+<div align="left">
+  &bullet;&nbsp;I develop websites and applications.<i> Want me to make something for you, reach me.</i><br>
+  &bullet;&nbsp;Open source contributor.<i> Happy to contribute and add value to community.</i><br>
+  &bullet;&nbsp;I create content on JavaScript.<i> Want to learn the basics, <a href="https://www.instagram.com/gagancodes_/"><b>follow me.</b></a></i><br>
+</div>
+<h4><b>Personal portfolio <a href=""gaganpreetkaurkalsi.netlify.app>here</a>.</b></h4>
+<br>
+<br>  
+
+
+<h2>Tech stack I work with 👇</h2>
+
+<h4>Web development stack</h4> 
+
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?&style=for-the-badge&logo=react&logoColor=white&style=plastic) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=plastic) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=plastic) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&style=plastic) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&style=plastic) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&style=plastic) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&style=plastic&style=plastic) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=plastic) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&style=plastic) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&style=plastic) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white&style=plastic)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&style=plastic)
+  
+  
+<h4>Languages</h4>     
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=plastic) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=plastic) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=plastic) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=plastic) 
+
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=GaganpreetKaurKalsi.GaganpreetKaurKalsi) -->
 
 
+<h4>ML/DL stack</h4>   
 
-Social - <br>
-<a href="https://www.linkedin.com/in/aakash9868sinha/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/isupersky">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:mailtomeaakash@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCiiOUy5NitscX1Ao8on70Rw">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://isupersky.medium.com/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white&style=plastic)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&style=plastic)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&style=plastic)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&style=plastic)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&style=plastic) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&style=plastic)
+
+<h4>Version Control</h4>  
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=plastic)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=plastic)
 
 
+<h4>Hosting/SaaS</h4>    
+
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&style=plastic)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7&style=plastic)   
+ 
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GaganpreetKaurKalsi&show_icons=true&theme=gotham" alt="GaganpreetKaurKalsi" />
@@ -46,15 +96,15 @@ Social - <br>
 Here are a few things I've picked up along my learning journey.
 
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
   
- ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+ ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
  ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)  ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
  
- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
  
  ![](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white) ![](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 
