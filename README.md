@@ -28,14 +28,6 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 </div>
 <br>
 <br>
-<!-- <div align="center">
-  <h4>Mail me&nbsp;
-  <a href="mailto:gagansinghkalsi4126@gmail.com">
-      <img width="22px" src="/assests/gmail.svg" />
-  </a>
-  </h4>
-</div>
-<br> -->
   
   
 <h3 align="center">A small introduction ✍</h3>
@@ -100,24 +92,18 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=GaganpreetKaurKalsi&theme=github" alt="GitHub Activity Graph" width="100%" />
 
- 
- 
- 
- 
- 
- 
-  
-<!--
-**GaganpreetKaurKalsi/GaganpreetKaurKalsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
+  <br>
+  <p><b>Thank you for your time.</b><br>
+    It was nice having you here.<br><br>
+    If you have any queries or just wanna say hi, <br><b>MAIL ME</b>&nbsp;
+  <a href="mailto:gagansinghkalsi4126@gmail.com">
+      <img width="20px" src="/assests/gmail.svg" />
+  </a></p>
+</div>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Salut! <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"></h1>
