@@ -31,13 +31,13 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   
   
 <h3 align="center">A small introduction ✍</h3>
-<p align="center">Hey! I am currently in my <b>3rd year</b> of Bachelors in Computer Science. I am a <b>frontend web developer</b> and a <b>machine learning enthusiast</b>. I have been into the field of web development for almost 2 years now. Also I am an artist. I love painting, sketching, crafting. Want to see some of my work, <a href="https://www.instagram.com/portraits_by_gagan/"><b>click here.</b></a></p>
+<p align="center">Hey! I am currently in my <b>3rd year</b> of Bachelors in Computer Science. I am a <b>frontend web developer</b> and a <b>machine learning enthusiast</b>. I have been into the field of web development for almost 2 years now. Also, I am an artist. I love painting, sketching, crafting. Want to see some of my work, <a href="https://www.instagram.com/portraits_by_gagan/"><b>click here.</b></a></p>
 <br>
 <br>
 
 <h3 align="left">About me 🤔</h3>
 <div align="left">
-  &bullet;&nbsp;I develop websites and applications.<i> Want me to make something for you, reach me.</i><br>
+  &bullet;&nbsp;I develop websites and applications.<i> Want me to develop something for you, reach me.</i><br>
   &bullet;&nbsp;Open source contributor.<i> Happy to contribute and add value to community.</i><br>
   &bullet;&nbsp;I create content on JavaScript.<i> Want to learn the basics, <a href="https://www.instagram.com/gagancodes_/"><b>follow me.</b></a></i><br>
 </div>
