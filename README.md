@@ -1,3 +1,6 @@
+<img src="./Github Profile Head.gif" style="width:80%; margin:auto;">
+
+
 # Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am [Gaganpreet Kaur Kalsi!](https://www.linkedin.com/in/gaganpreet-kaur-kalsi-2a6650191/)
 ![](https://visitor-badge.glitch.me/badge?page_id=GaganpreetKaurKalsi.GaganpreetKaurKalsi)
 
