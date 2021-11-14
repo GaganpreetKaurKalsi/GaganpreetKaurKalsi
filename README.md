@@ -1,10 +1,7 @@
 <div align="center"><img src="./GithubHead.gif" style="height: 200px;"></div>
 
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am Gaganpreet Kaur Kalsi!</h1>
-<div align="center">
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=GaganpreetKaurKalsi">
-</div>
-<br><br>
+<br>
 <p align="center" style="margin-top:10px">
 <b>
 Welcome to my Github profile!</b> <br>
