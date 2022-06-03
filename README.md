@@ -1,6 +1,6 @@
-<div align="center"><img src="./GithubHead.gif" width="300px" /></div>
+<div align="center"><img src="./GithubHead.gif" width="200px" height="200px" /></div>
 
-<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am Gaganpreet Kaur Kalsi!</h1>
+<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"> I am Gaganpreet Kaur Kalsi!</h1>
 <br>
 <p align="center" style="margin-top:10px">
 <b>
@@ -104,4 +104,4 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 </div>
 <br>
 
-<h1 align="center">Salut! <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"></h1>
+<h1 align="center">Salut! <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" height="100px"></h1>
