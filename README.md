@@ -1,6 +1,6 @@
-<div align="center"><img src="./GithubHead.gif" width="200px" height="200px" /></div>
+![Hi! I am Gaganpreet Kaur Kalsi](https://user-images.githubusercontent.com/54144759/192382246-557951d5-0cce-4ce4-a0d3-498f850abfbc.png)
 
-<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"> I am Gaganpreet Kaur Kalsi!</h1>
+<hr>
 <br>
 <p align="center" style="margin-top:10px">
 <b>
@@ -31,7 +31,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   
   
 <h3 align="center">A small introduction ✍</h3>
-<p align="center">Hey! I am currently in my <b>3rd year</b> of Bachelors in Computer Science. I am a <b>frontend web developer</b> and a <b>machine learning enthusiast</b>. I have been into the field of web development for almost 2 years now. Also, I am an artist. I love painting, sketching, crafting. Want to see some of my work, <a href="https://www.instagram.com/portraits_by_gagan/"><b>click here.</b></a></p>
+<p align="center">Hey! I am currently in my <b>4th year</b> of Bachelors in Computer Science. I am a <b>frontend web developer</b> and a <b>machine learning enthusiast</b>. I have been into the field of web development for almost 3 years now. Also, I am an artist. I love painting, sketching, crafting. Want to see some of my work, <a href="https://www.instagram.com/portraits_by_gagan/"><b>click here.</b></a></p>
 <br>
 <br>
 
@@ -45,8 +45,8 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 <br>
 <br>  
 
-
-<h3>Tech stack I work with 👇</h3>
+<details>
+<summary><h3>Tech stack I work with 👇</h3></summary>
 
 <h4>Web development stack</h4> 
 
@@ -73,8 +73,20 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&style=plastic)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=blue&style=plastic)   
 
+</details>
+<details>
+<summary><h3>Blogs</h3></summary>
 
-<br><br>
+| Title | Topic | Link|
+|-------|-------|-----|
+| <div><b>Getting Started with Github API</b></div> | Github REST API v3 using Python | <a href = "https://medium.com/analytics-vidhya/getting-started-with-github-api-dc7057e2834d">Click Here</a> |
+| <div><b>Writing Github README</b></div> | Github Markdown | <a href = "https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796">Click Here</a> |
+| <div><b>How to use external font files in your REACT project</b></div> | Step by step guide on how to add external font files into your react project | <a href = "https://gaganpreetkaurkalsi.hashnode.dev/how-to-use-external-font-files-in-your-react-project">Click Here</a> |
+| <div><b>Diving deep into useState()</b></div> | Discover every aspect of useState from passing numbers to arrays to objects as arguments, to analyzing and correcting common mistakes | <a href = "https://gaganpreetkaurkalsi.hashnode.dev/diving-deep-into-usestate">Click Here</a> |
+
+
+
+</details>
 
 
 
@@ -82,13 +94,8 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 
 
-| ![Gaganpreet Kaur Kalsi GitHub Statistics](https://github-readme-stats.vercel.app/api?username=GaganpreetKaurKalsi&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaganpreetKaurKalsi) |
-| --- | --- |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=GaganpreetKaurKalsi&theme=light&hide_border=true&line_height=27&width=20) | ![Gagan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GaganpreetKaurKalsi&layout=compact&langs_count=8&hide_border=true) | 
+![Gaganpreet Kaur Kalsi GitHub Statistics](https://github-readme-stats.vercel.app/api?username=GaganpreetKaurKalsi&show_icons=true) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=GaganpreetKaurKalsi&theme=light&hide_border=true&line_height=27&width=20)
 
-
-
-<img src="https://activity-graph.herokuapp.com/graph?username=GaganpreetKaurKalsi&theme=github" alt="GitHub Activity Graph" width="100%" />
 
 <br>
 <br>
