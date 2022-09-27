@@ -53,12 +53,12 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   <summary><b>Personal Favourite Projects</b></summary>
 <br><br>
   
-| Name | Description | Repo Link | Deployed Link |
+| Name | Description | Tech Stack | Deployed Link |
 |-------|-------|-----|---------|
-| <div><b>Resume-Builder</b></div> | created using React and Saas where you can build your resume. The data is stored in the browser local storage so you don't have to worry about loosing any. | <a href = "https://github.com/GaganpreetKaurKalsi/Resume-Builder">Repo</a> | <a href="https://resume-builder-gamma.vercel.app/">Live Link</a> |
-| <div><b>SQL-Editor</b></div> | You can run SQL queries here. Used alasql and codemirror | <a href = "https://github.com/GaganpreetKaurKalsi/SQL-Editor">Repo</a> | <a href="https://sql-editor-react.vercel.app/sql-editor">Live Link</a> |
-| <div><b>Sentiment Analysis App</b></div> | A sentiment analysis application built using Streamlit which works on text, image, IMDB movie reviews. | <a href = "https://github.com/GaganpreetKaurKalsi/SentimentAnalysis-Streamlit">Repo</a> | <a href="https://share.streamlit.io/gaganpreetkaurkalsi/sentimentanalysis-streamlit/main/app.py">Live Link</a> |
-| <div><b>Sign Language Recognition</b></div> | Help you translate american sign language to english alphabets. Developed 2 interfaces :- detection in realtime and an application deployed using Flask where you can either upload an image of a sign or you can click photos and then predict. | <a href = "https://github.com/GaganpreetKaurKalsi/Sign-Language-Recognition">Repo</a> | - |
+| <div><b><a href = "https://github.com/GaganpreetKaurKalsi/Resume-Builder">Resume-Builder</a></b></div> | created using React and Saas where you can build your resume. The data is stored in the browser local storage so you don't have to worry about loosing any. | React, SASS | <a href="https://resume-builder-gamma.vercel.app/">Live Link</a> |
+| <div><b><a href = "https://github.com/GaganpreetKaurKalsi/SQL-Editor">SQL-Editor</a></b></div> | You can run SQL queries here. Used alasql and codemirror | React, alasql, codemirror, SASS | <a href="https://sql-editor-react.vercel.app/sql-editor">Live Link</a> |
+| <div><b><a href = "https://github.com/GaganpreetKaurKalsi/SentimentAnalysis-Streamlit">Sentiment Analysis App</a></b></div> | A sentiment analysis application built using Streamlit which works on text, image, IMDB movie reviews. | Python, Streamlit, NLP libs - Flair, NLTK, Textblob, text2emotion, vader | <a href="https://share.streamlit.io/gaganpreetkaurkalsi/sentimentanalysis-streamlit/main/app.py">Live Link</a> |
+| <div><b><a href = "https://github.com/GaganpreetKaurKalsi/Sign-Language-Recognition">Sign Language Recognition</a></b></div> | Help you translate american sign language to english alphabets. Developed 2 interfaces :- detection in realtime and an application deployed using Flask where you can either upload an image of a sign or you can click photos and then predict. | Deep Learning, ANN, Flask, Digital Image Processing, OpenCV, Mediapipe | - |
   
 <br>
 </details>
