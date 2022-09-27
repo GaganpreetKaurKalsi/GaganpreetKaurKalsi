@@ -81,19 +81,19 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   <summary><b>Blogs</b></summary>
 <br><br>
   
-| Title | Description | Link|
-|-------|-------|-----|
-| <div>⭐ <b>Getting Started with Github API</b></div> | Github REST API v3 using Python. Create repo, delete repo, create issue, comment on issue, etc.  | <a href = "https://medium.com/analytics-vidhya/getting-started-with-github-api-dc7057e2834d">Click Here</a> |
-| <div>⭐ <b>Writing Github README</b></div> | Blog covering everything you can do with markdown in Github. A must visit blog for those just starting with Github or building README | <a href = "https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796">Click Here</a> |
-| <div><b>How to use external font files in your REACT project</b></div> | Step by step guide on how to add external font files into your react project | <a href = "https://gaganpreetkaurkalsi.hashnode.dev/how-to-use-external-font-files-in-your-react-project">Click Here</a> |
-| <div><b>Diving deep into useState()</b></div> | Discover every aspect of useState from passing numbers to arrays to objects as arguments, to analyzing and correcting common mistakes | <a href = "https://gaganpreetkaurkalsi.hashnode.dev/diving-deep-into-usestate">Click Here</a> |
+| Title | Description |
+|-------|-------|
+| <div>⭐ <b><a href = "https://medium.com/analytics-vidhya/getting-started-with-github-api-dc7057e2834d">Getting Started with Github API</a></b></div> | Github REST API v3 using Python. Create repo, delete repo, create issue, comment on issue, etc.  |
+| <div>⭐ <b><a href = "https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796">Writing Github README</a></b></div> | Blog covering everything you can do with markdown in Github. A must visit blog for those just starting with Github or building README |
+| <div><b><a href = "https://gaganpreetkaurkalsi.hashnode.dev/how-to-use-external-font-files-in-your-react-project">How to use external font files in your REACT project</a></b></div> | Step by step guide on how to add external font files into your react project |
+| <div><b><a href = "https://gaganpreetkaurkalsi.hashnode.dev/diving-deep-into-usestate">Diving deep into useState()</a></b></div> | Discover every aspect of useState from passing numbers to arrays to objects as arguments, to analyzing and correcting common mistakes |
   
 <br><br>
 </details>
 <details>
   <summary><b>Tech stack I work with 👇</b></summary>
 
-  <br><br>
+  <br>
 <h4>Web development stack</h4> 
 
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?&style=for-the-badge&logo=react&logoColor=white&style=plastic) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=plastic) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=plastic) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&style=plastic) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&style=plastic) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&style=plastic) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&style=plastic&style=plastic) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=plastic) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&style=plastic) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&style=plastic) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white&style=plastic)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&style=plastic)
@@ -119,12 +119,11 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&style=plastic)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=blue&style=plastic)   
 
-  <br><br>
+  <br>
 </details>
 <details>
   <summary><b>Github Stats 📈</b></summary>
-
-
+<br>
 
 ![Gaganpreet Kaur Kalsi GitHub Statistics](https://github-readme-stats.vercel.app/api?username=GaganpreetKaurKalsi&show_icons=true) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=GaganpreetKaurKalsi&theme=light&hide_border=true&line_height=27&width=20)
 
