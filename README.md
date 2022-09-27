@@ -1,6 +1,6 @@
 ![Hi! I am Gaganpreet Kaur Kalsi](https://user-images.githubusercontent.com/54144759/192382246-557951d5-0cce-4ce4-a0d3-498f850abfbc.png)
 
-<hr>
+
 <br>
 <p align="center" style="margin-top:10px">
 <b>
@@ -45,8 +45,38 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 <br>
 <br>  
 
+
+<h3>❓❓ Want to know more about me? ❓❓</h3>
+<p>Reveal the accordions and see for yourself.</p><br>
+
 <details>
-<summary><h3>Tech stack I work with 👇</h3></summary>
+  <summary><b>Personal Favourite Projects</b></summary>
+<br><br>
+  
+| Name | Description | Repo Link | Deployed Link |
+|-------|-------|-----|---------|
+| <div><b>Resume-Builder</b></div> | created using React and Saas where you can build your resume. The data is stored in the browser local storage so you don't have to worry about loosing any. | <a href = "https://github.com/GaganpreetKaurKalsi/Resume-Builder">Repo</a> | <a href="https://resume-builder-gamma.vercel.app/">Live Link</a> |
+| <div><b>SQL-Editor</b></div> | You can run SQL queries here. Used alasql and codemirror | <a href = "https://github.com/GaganpreetKaurKalsi/SQL-Editor">Repo</a> | <a href="https://sql-editor-react.vercel.app/sql-editor">Live Link</a> |
+| <div><b>Sentiment Analysis App</b></div> | A sentiment analysis application built using Streamlit which works on text, image, IMDB movie reviews. | <a href = "https://github.com/GaganpreetKaurKalsi/SentimentAnalysis-Streamlit">Repo</a> | <a href="https://share.streamlit.io/gaganpreetkaurkalsi/sentimentanalysis-streamlit/main/app.py">Live Link</a> |
+| <div><b>Sign Language Recognition</b></div> | Help you translate american sign language to english alphabets. Developed 2 interfaces :- detection in realtime and an application deployed using Flask where you can either upload an image of a sign or you can click photos and then predict. | <a href = "https://github.com/GaganpreetKaurKalsi/Sign-Language-Recognition">Repo</a> | - |
+  
+<br>
+</details>
+<details>
+  <summary><b>Blogs</b></summary>
+<br><br>
+  
+| Title | Description | Link|
+|-------|-------|-----|
+| <div>⭐ <b>Getting Started with Github API</b></div> | Github REST API v3 using Python. Create repo, delete repo, create issue, comment on issue, etc.  | <a href = "https://medium.com/analytics-vidhya/getting-started-with-github-api-dc7057e2834d">Click Here</a> |
+| <div>⭐ <b>Writing Github README</b></div> | Blog covering everything you can do with markdown in Github. A must visit blog for those just starting with Github or building README | <a href = "https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796">Click Here</a> |
+| <div><b>How to use external font files in your REACT project</b></div> | Step by step guide on how to add external font files into your react project | <a href = "https://gaganpreetkaurkalsi.hashnode.dev/how-to-use-external-font-files-in-your-react-project">Click Here</a> |
+| <div><b>Diving deep into useState()</b></div> | Discover every aspect of useState from passing numbers to arrays to objects as arguments, to analyzing and correcting common mistakes | <a href = "https://gaganpreetkaurkalsi.hashnode.dev/diving-deep-into-usestate">Click Here</a> |
+  
+<br><br>
+</details>
+<details>
+  <summary><b>Tech stack I work with 👇</b></summary>
 
 <h4>Web development stack</h4> 
 
@@ -75,27 +105,13 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 </details>
 <details>
-<summary><h3>Blogs</h3></summary>
-
-| Title | Topic | Link|
-|-------|-------|-----|
-| <div><b>Getting Started with Github API</b></div> | Github REST API v3 using Python | <a href = "https://medium.com/analytics-vidhya/getting-started-with-github-api-dc7057e2834d">Click Here</a> |
-| <div><b>Writing Github README</b></div> | Github Markdown | <a href = "https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796">Click Here</a> |
-| <div><b>How to use external font files in your REACT project</b></div> | Step by step guide on how to add external font files into your react project | <a href = "https://gaganpreetkaurkalsi.hashnode.dev/how-to-use-external-font-files-in-your-react-project">Click Here</a> |
-| <div><b>Diving deep into useState()</b></div> | Discover every aspect of useState from passing numbers to arrays to objects as arguments, to analyzing and correcting common mistakes | <a href = "https://gaganpreetkaurkalsi.hashnode.dev/diving-deep-into-usestate">Click Here</a> |
-
-
-
-</details>
-
-
-
-<h3>Github Stats 📈</h3>
+  <summary><b>Github Stats 📈</b></summary>
 
 
 
 ![Gaganpreet Kaur Kalsi GitHub Statistics](https://github-readme-stats.vercel.app/api?username=GaganpreetKaurKalsi&show_icons=true) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=GaganpreetKaurKalsi&theme=light&hide_border=true&line_height=27&width=20)
 
+</details>
 
 <br>
 <br>
