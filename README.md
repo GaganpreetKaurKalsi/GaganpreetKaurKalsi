@@ -134,8 +134,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 <div align="center">
   <br>
-  <p><b>Thank you for your time.</b><br>
-    It was nice having you here.<br><br>
+  <p>
     If you have any queries or just wanna say hi, <br><b>MAIL ME</b>&nbsp;
   <a href="mailto:gagansinghkalsi4126@gmail.com">
       <img width="20px" src="/assests/gmail.svg" />
@@ -143,4 +142,8 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 </div>
 <br>
 
-<h1 align="center">Salut! <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" height="100px"></h1>
+<h1 align="center">Salut! <br><br>
+
+![Hi! I am Gaganpreet Kaur Kalsi (3)](https://user-images.githubusercontent.com/54144759/192513125-9f8f00fb-e413-4827-983f-33a36da5ecbd.gif)
+
+</h1>
