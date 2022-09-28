@@ -1,7 +1,6 @@
-![Hi! I am Gaganpreet Kaur Kalsi (1)](https://user-images.githubusercontent.com/54144759/192727394-1637e720-251e-467f-b593-cb35c3ce6dbc.png)
+![Hi! I am Gaganpreet Kaur Kalsi (2)](https://user-images.githubusercontent.com/54144759/192881904-b8e17207-1169-4cda-812c-b69571a00887.png)
 
-
-<br>
+<br><br>
 <p align="center" style="margin-top:10px">
 <b>
 Welcome to my Github profile!</b> <br>
@@ -144,6 +143,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 <h1 align="center">Salut! <br><br>
 
-![Hi! I am Gaganpreet Kaur Kalsi (3)](https://user-images.githubusercontent.com/54144759/192513125-9f8f00fb-e413-4827-983f-33a36da5ecbd.gif)
+![Hi! I am Gaganpreet Kaur Kalsi (2140 × 300 px)](https://user-images.githubusercontent.com/54144759/192883545-5c03102f-baff-47a2-85f7-acabe9211dfa.png)
+
 
 </h1>
