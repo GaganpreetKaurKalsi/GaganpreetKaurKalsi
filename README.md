@@ -124,12 +124,9 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   <summary><b>Github Stats 📈</b></summary>
 <br>
 
-![Gaganpreet Kaur Kalsi GitHub Statistics](https://github-readme-stats.vercel.app/api?username=GaganpreetKaurKalsi&show_icons=true) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=GaganpreetKaurKalsi&theme=light&hide_border=true&line_height=27&width=20)
+![Gaganpreet Kaur Kalsi' Stats](https://github-readme-stats.vercel.app/api?username=GaganpreetKaurKalsi&show_icons=true) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=GaganpreetKaurKalsi&theme=light&hide_border=true&line_height=27&width=20)
 
 </details>
-
-<br>
-<br>
 
 <div align="center">
   <br>
@@ -139,11 +136,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
       <img width="20px" src="/assests/gmail.svg" />
   </a></p>
 </div>
-<br>
-
-<h1 align="center">Salut! <br><br>
-
+<h1 align="center">Salut! <br>
+  
 ![Hi! I am Gaganpreet Kaur Kalsi (2140 × 300 px)](https://user-images.githubusercontent.com/54144759/192883545-5c03102f-baff-47a2-85f7-acabe9211dfa.png)
-
-
 </h1>
