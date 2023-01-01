@@ -65,18 +65,6 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 </details>
 
 <details>
-  <summary><b>Open Source contributions I am proud of</b></summary>
-<br><br>
-  
-| Project | Description | Merge requests |
-|-------|-------|-----|
-| <div><b><a href="https://github.com/girlscript/gssoc-website-new">gssoc-website-new</a></b></div> | Added searchbar functionality for leaderboard, pagination, skeleton loader with confetti effect, etc.  | <a href = "https://github.com/girlscript/gssoc-website-new/pull/75">#75</a> <br> <a href = "https://github.com/girlscript/gssoc-website-new/pull/77">#77</a> <br> <a href = "https://github.com/girlscript/gssoc-website-new/pull/80">#80</a> <br> <a href = "https://github.com/girlscript/gssoc-website-new/pull/81">#81</a> |
-| <div><b><a href="https://github.com/Rishabh-malhotraa/caucus">caucus</a></b></div> | Added light theme mode, full screen mode for editor and language switcher on editor panel. | <a href = "https://github.com/Rishabh-malhotraa/caucus/pull/57">#57</a> <br> <a href = "https://github.com/Rishabh-malhotraa/caucus/pull/63">#63</a> <br> <a href = "https://github.com/Rishabh-malhotraa/caucus/pull/67">#67</a> |
-  
-<br><br>
-</details>
-
-<details>
   <summary><b>Blogs</b></summary>
 <br><br>
   
