@@ -124,4 +124,3 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
       <img width="20px" src="/assests/gmail.svg" />
   </a></p>
 </div>
-<h3 align="center">Salut!</h3>
