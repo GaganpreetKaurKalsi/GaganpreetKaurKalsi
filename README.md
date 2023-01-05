@@ -124,7 +124,4 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
       <img width="20px" src="/assests/gmail.svg" />
   </a></p>
 </div>
-<h1 align="center">Salut! <br>
-  
-![Hi! I am Gaganpreet Kaur Kalsi (2140 × 300 px)](https://user-images.githubusercontent.com/54144759/192883545-5c03102f-baff-47a2-85f7-acabe9211dfa.png)
-</h1>
+<h3 align="center">Salut!</h3>
