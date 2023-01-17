@@ -30,7 +30,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   
   
 <h3 align="center">A small introduction ✍</h3>
-<p align="center">Hey! I am currently in my <b>4th year</b> of Bachelors in Computer Science. I am a <b>frontend web developer</b> and a <b>machine learning enthusiast</b>. Also, I am an artist. I love painting, sketching, crafting. Want to see some of my work, <a href="https://www.instagram.com/portraits_by_gagan/"><b>click here.</b></a></p>
+<p align="center">Hey! I am currently in my <b>final year</b> of Bachelors in Computer Science. I am a <b>frontend web developer</b> and a <b>machine learning enthusiast</b>. Also, I am an artist. I love painting, sketching, crafting. Want to see some of my work, <a href="https://www.instagram.com/portraits_by_gagan/"><b>click here.</b></a></p>
 <br>
 <br>
 
