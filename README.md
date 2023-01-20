@@ -9,7 +9,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gaganpreet-kaur-kalsi-2a6650191/">
+  <a href="https://www.linkedin.com/in/gaganpreetkaurkalsi/">
     <img width="30px" src="/assests/linkedin-line.svg"  />
   </a>
   &nbsp;
