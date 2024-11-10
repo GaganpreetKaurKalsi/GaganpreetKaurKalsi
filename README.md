@@ -31,7 +31,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   
   
 <h3 align="center">A small introduction ✍</h3>
-<p align="center">Hey! I am currently working as an <b>ASE at an edtech startup</b>. Also I love contributing in <b>Open Source</b>, have worked on some challenging issues in the past. I love painting in my free time, which I hardly get so it's like after many many months. Wanna see some of my work, <a href="https://www.instagram.com/portraits_by_gagan/"><b>click here.</b></a></p>
+<p align="center">Hey! I am currently working as a <b>Software Engineer at an edtech startup</b>. Also I love contributing in <b>Open Source</b>, have worked on some challenging issues in the past. I love painting in my free time, which I hardly get so it's like after many many months. Wanna see some of my work, <a href="https://www.instagram.com/portraits_by_gagan/"><b>click here.</b></a></p>
 <br>
 <br>
 
