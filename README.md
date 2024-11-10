@@ -1,4 +1,5 @@
-![Hi! I am Gaganpreet Kaur Kalsi (2)](https://user-images.githubusercontent.com/54144759/192881904-b8e17207-1169-4cda-812c-b69571a00887.png)
+![Github Banner](https://github.com/user-attachments/assets/77563e2d-f424-45bb-83c2-46191b875b0d)
+
 
 <br><br>
 <p align="center" style="margin-top:10px">
